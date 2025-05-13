@@ -57,7 +57,7 @@ Ao final deve se exibir uma mensagem:
 
 ## Desafios de código
 
-### Jornada do heroi
+### 3️⃣ Jornada do heroi
 
 Você é um jovem herói que embarca em uma jornada épica para derrotar o temido dragão que aterroriza o reino. No entanto, você precisa atravessar uma floresta perigosa para chegar à caverna do dragão. Cada passo é crucial, e sua jornada será determinada pela lógica afiada que você possuir.
 
@@ -80,7 +80,35 @@ Entrada: Saída
 5 3    Posicao final do heroi: 18
 10 6   Posicao final do heroi: 16
 
-### Calculadora de XP
+### 4️⃣ Calculadora de XP
+
+**O Que deve ser utilizado**
+
+- Variáveis
+- Operadores
+- Funções
+- Estruturas de decisão
+
+### Objetivo
+
+Crie uma função que receba como parâmetros o nível do monstro e a dificuldade da batalha. A função deve calcular a quantidade de XP ganhos utilizando a fórmula `XP = nível do monstro * dificuldade * 100`. 
+
+### Saída
+
+Ao final, exiba uma mensagem com a quantidade de XP ganhos:
+"Você ganhou **{XP}** XP!"
+
+### Exemplos
+
+Entrada:  
+45 40  
+Saída:  
+"Você ganhou 180000 XP!"
+
+Entrada:  
+15 20  
+Saída:  
+"Você ganhou 30000 XP!"
 
 Você é um herói em um mundo mágico repleto de monstros e desafios. Sua missão agora é enfrentar inimigos e ganhar pontos de experiência (XP) para se tornar mais forte. A cada vitória, você ganha XP e se aproxima de se tornar um lendário campeão.
 
@@ -113,7 +141,7 @@ Entrada: Saída
 41 38:  Voce ganhou 155800 XP!
 15 20:  Voce ganhou 30000 XP!
 
-### Capturando pokemons
+### 5️⃣ Capturando pokemons
 
 Descrição
 No mundo dos jogos Pokémon, os treinadores começam sua jornada escolhendo um dos três Pokémons iniciais: Bulbasaur, Charmander e Mewtwo. Cada treinador escolhe um dos quatro pokemons. Seu desafio é criar uma solução que permita ao jogador escolher um dos Pokémons iniciais e exibir uma mensagem de boas-vindas e o Pokémon escolhido.
@@ -133,7 +161,7 @@ Escolha o seu Pokemon: 2:	Voce escolheu o Charmander como seu Pokemon inicial.
 Escolha o seu Pokemon: 4:	Voce escolheu o Pikachu como seu Pokemon inicial.
 Escolha o seu Pokemon: 5:	Voce escolheu o Mewtwocomo seu Pokemon inicial.
 
-### Coleta de Tesouros no Dungeon
+### 6️⃣ Coleta de Tesouros no Dungeon
 
 Sua missão é vasculhar as salas da masmorra em busca de recompensas lendárias e desafios perigosos. Cada sala pode conter monstros formidáveis, tesouros preciosos ou ambos. Use suas habilidades estratégicas para enfrentar as ameaças e coletar os tesouros!
 
@@ -163,7 +191,7 @@ Entrada: Saída
     Tesouro na sala 4!
 2: Tesouro na sala 2!
 
-### Geração de Biomas em um Mundo de Blocos
+### 7️⃣ Geração de Biomas em um Mundo de Blocos
 
 Você é um mestre construtor em um mundo de blocos e tem a tarefa de gerar biomas em diferentes regiões do mundo. Cada bioma tem características únicas, como tipos de solo, vegetação e clima.
 
@@ -192,7 +220,7 @@ Entrada: Saída
     1: Carvao
     2: Ferro
 
-### Combinando Nomes de Pokémons
+### 8️⃣ Combinando Nomes de Pokémons
 
 Imagine um universo onde você é um Mestre Pokémon com o poder de criar novas criaturas através da combinação de nomes. Seu algoritmo é a chave para dar vida a esses seres incríveis. Você receberá uma primeira parte do nome de um Pokémon e sua tarefa é completá-la com o sufixo mágico adequado, revelando o nome completo do Pokémon.
 
@@ -212,7 +240,7 @@ Bulba:  Bulbasaur
 Ivy:    Ivysaur
 Venu:   Venusaur
 
-### Gerenciamento de Itens Mágicos
+### 9️⃣ Gerenciamento de Itens Mágicos
 
 Você é um aventureiro em um mundo mágico cheio de perigos e monstros. Durante suas missões, você coleta diversos itens mágicos, cada um com seus próprios atributos e habilidades especiais. Agora, você está desenvolvendo um sistema aprimorado para gerenciar esses itens. Neste novo sistema, você pode criar diferentes tipos de itens mágicos, como armas, armaduras, poções, entre outros. Cada tipo de item terá atributos específicos e contribuirá de maneiras únicas para suas aventuras.
 
